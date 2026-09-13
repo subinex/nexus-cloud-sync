@@ -1,7 +1,11 @@
 {
-  "modelos_gemini": {
-    "primario": "gemini-2.4-flash",
-    "respaldo": "gemini-1.5-pro",
-    "legado": "gemini-1.5-flash-8b"
-  }
+  "modelos_premium": [
+    "gemini-2.5-pro",
+    "gemini-2.0-pro-exp",
+    "gemini-2.5-flash"
+  ],
+  "modelos_gratis": [
+    "gemini-2.5-flash",
+    "gemini-2.0-flash-lite"
+  ]
 }
