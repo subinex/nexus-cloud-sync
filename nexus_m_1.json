@@ -1,6 +1,6 @@
 {
   "modelos_gemini": {
-    "primario": "gemini-2.0-flash",
+    "primario": "gemini-2.4-flash",
     "respaldo": "gemini-1.5-pro",
     "legado": "gemini-1.5-flash-8b"
   }
